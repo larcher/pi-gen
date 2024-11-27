@@ -3,8 +3,10 @@ curl
 dnsmasq
 eggdrop
 git
+hostapd
 htop
 iotop
+irssi
 kiwiirc
 nginx
 ngircd
@@ -15,3 +17,6 @@ sambaa
 screen
 vim
 wireguard
+pisugar-poweroff
+pisugar-server
+pisguar-programmer
